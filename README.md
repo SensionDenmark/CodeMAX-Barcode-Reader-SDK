@@ -15,7 +15,7 @@ Download
 -------------
 [https://www.sensionweb.com/codemax-barcode-sdk/](https://www.sensionweb.com/codemax-barcode-sdk/) 
 
-Online Barcoder Reader
+Online Barcode Reader
 ------------------------------
 It is also possible to try out the robust and reliable barcode decoding performance of the CodeMAX Barcode Reader SDK by using our [free online barcode reader](https://www.sensionweb.com/online-barcode-reader/) which is based on the SDK.
 
@@ -64,7 +64,7 @@ Specifications
 * C# (Coming soon)
 
 ### Example
-To see how easy it is to integrate world-class barcode reading performance into your application please refer to the [CodeMAX Barcode Reader SDK C++ Example](examples/codemax-example.cpp)
+To see how easy it is to integrate world-class barcode reading performance into your application please refer to the [CodeMAX Barcode Reader SDK C++ Example](example/codemax-example.cpp)
 
 
 
