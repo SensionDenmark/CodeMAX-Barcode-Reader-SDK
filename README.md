@@ -1,6 +1,8 @@
+![original](images/webpageLogo.png?raw=true)
+
 CodeMAX-Barcode-Reader-SDK
 ==================
-Real-Time Barcode Decoding With World-Class Performance
+**Real-Time Barcode Decoding With World-Class Performance**
 
 Introduction
 ----------------
