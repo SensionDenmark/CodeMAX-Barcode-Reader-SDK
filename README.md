@@ -6,7 +6,10 @@ CodeMAX-Barcode-Reader-SDK
 
 Introduction
 ----------------
-Sension's [CodeMAX Barcode Reader SDK](https://www.sensionweb.com/codemax-barcode-sdk/) enables world-class barcode decoding performance with just a few lines of code. Unlike the majority of commercially available barcode decoders, the CodeMAX Barcode Reader SDK requires no complicated configuration or parameter finetuning. 
+Sension's [CodeMAX Barcode Reader SDK](https://www.sensionweb.com/codemax-barcode-sdk/) enables world-class barcode decoding performance with just a few lines of code. Unlike the majority of commercially available barcode decoders, the CodeMAX Barcode Reader SDK requires no complicated configuration or parameter finetuning. The CodeMAX Barcode Reader is available as a library for Ubuntu Linux 16.04 and Microsoft Windows 10 (coming soon).
+
+<img src="images/featured.jpg" alt="CodeMAX Barcode Reader SDK" width="600px"/>
+
 
 Download
 -------------
@@ -14,7 +17,7 @@ Download
 
 Online Barcoder Reader
 ------------------------------
-It is also possible to try out the robust and reliable barcode decoding performance of CodeMAX by using our [free online barcode reader](https://www.sensionweb.com/online-barcode-reader/) which is based on the CodeMAX Barcode Reader SDK.
+It is also possible to try out the robust and reliable barcode decoding performance of the CodeMAX Barcode Reader SDK by using our [free online barcode reader](https://www.sensionweb.com/online-barcode-reader/) which is based on the SDK.
 
 Specifications
 ------------------
@@ -41,6 +44,17 @@ Specifications
 * 1D Barcodes: UPC-A, UPC-E, EAN-8, EAN-13, EAN-128, Code 39, Code 93, Databar composite CC-A and CC-B, GS1-128, ITF, Codabar, MSI Plessey, Databar limited, stacked omnidirectional and truncated.
 * 2D Barcodes: QR code (and Micro-QR), Datamatrix, Databar, PDF 417 (and Micro PDF 417)
 
+### Barcode Result Output
+* Barcode type
+* Barcode content
+* Barcode symbol bounding box coordinates
+* Barcode processing time
+* Image with barcode information overlay graphics
+
+### Supported Image Sources
+* Color or grayscale jpg, jpeg, png, tif, tiff, bmp images
+* 8 or 24-bit image buffer
+
 ### Supported Operating systems
 * Linux Ubuntu 16.04
 * Windows 10 (Coming soon)
@@ -48,3 +62,5 @@ Specifications
 ### Supported Languages
 * C++
 * C# (Coming soon)
+
+
