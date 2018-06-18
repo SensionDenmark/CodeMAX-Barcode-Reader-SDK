@@ -63,4 +63,9 @@ Specifications
 * C++
 * C# (Coming soon)
 
+### Example
+To see how easy it is to integrate world-class barcode reading performance into your application please refer to the [CodeMAX Barcode Reader SDK C++ Example](examples/codemax-example.cpp)
+
+
+
 
