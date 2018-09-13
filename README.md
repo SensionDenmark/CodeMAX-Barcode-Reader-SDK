@@ -6,14 +6,14 @@ CodeMAX-Barcode-Reader-SDK
 
 Introduction
 ----------------
-Sension's [CodeMAX Barcode Reader SDK](https://www.sensionweb.com/codemax-barcode-sdk/) enables world-class barcode decoding performance with just a few lines of code. Unlike the majority of commercially available barcode decoders, the CodeMAX Barcode Reader SDK requires no complicated configuration or parameter finetuning. The CodeMAX Barcode Reader is available as a library for Ubuntu Linux 16.04 and Microsoft Windows 10 (coming soon).
+Sension's [CodeMAX Barcode Reader SDK](https://www.sensionweb.com/codemax-sdk) enables world-class barcode decoding performance with just a few lines of code. Unlike the majority of commercially available barcode decoders, the CodeMAX Barcode Reader SDK requires no complicated configuration or parameter finetuning. The CodeMAX Barcode Reader is available as a library for Ubuntu Linux 16.04 and Microsoft Windows 10 (coming soon).
 
 <img src="images/featured.jpg" alt="CodeMAX Barcode Reader SDK" width="600px"/>
 
 
-Download
+Download Free 30-Day Demo
 -------------
-[https://www.sensionweb.com/codemax-barcode-sdk/](https://www.sensionweb.com/codemax-barcode-sdk/) 
+[https://www.sensionweb.com/codemax-sdk/codemax-demo-sdk](https://www.sensionweb.com/codemax-sdk/codemax-demo-sdk) 
 
 Online Barcode Reader
 ------------------------------
